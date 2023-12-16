@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)](www.linkedin.com/in/shaik-nizamuddin-backend)
 <h1 align="center">Hi 👋, I'm Shaik Nizamuddin</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4592034aa2947db1214599a3079a27a8ae0e41552bdf88736c634e3fef5360c9/68747470733a2f2f7777772e6161676e69612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f33393939382d7765622d646576656c6f706d656e742e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizam3700&label=Profile%20views&color=0e75b6&style=flat" alt="nizam3700" /> </p>
 
